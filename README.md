@@ -175,6 +175,7 @@ India, known as the "Troy of the East" and considered one of the most impregnabl
 ```
 
 ## OUTPUT
+<img width="1384" height="589" alt="map" src="https://github.com/user-attachments/assets/9c6e1837-9460-49d9-a35e-b595976a34e5" />
 ![alt text](1.png)
 ![alt text](2.png)
 ![alt text](3.png)
